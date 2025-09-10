@@ -5,7 +5,7 @@ Aquí encontrarás mis proyectos, pruebas y trabajos.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas conocidas
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://lenguajehtml.com/html)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://lenguajecss.com)
@@ -22,7 +22,7 @@ Aquí encontrarás mis proyectos, pruebas y trabajos.
 
 ---
 
-## 🚀 Mir proyectos
+## 🚀 Mis proyectos
 
 - [⭐ Proyecto 1](https://github.com/MaarkiDev/Pagina-Goku) - Pagina web en la que trabajé y apliqué mis conocimientos basicos de CSS y HTML
 - [⭐ Proyecto 2](https://github.com/rpmaya/diademas) - Proyecto en el que mediante una diadema sensorial, generabamos imagenes usando IA.
