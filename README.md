@@ -5,13 +5,6 @@ Aquí encontrarás mis proyectos, experimentos y aprendizajes.
 
 ---
 
-## 📊 GitHub Stats
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical)
-
----
-
 ## 🛠️ Tecnologías y herramientas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,16 +26,16 @@ Aquí encontrarás mis proyectos, experimentos y aprendizajes.
 
 ## 🚀 Proyectos destacados
 
-- [⭐ Proyecto 1](https://github.com/TUUSUARIO/proyecto1) — breve descripción  
-- [⭐ Proyecto 2](https://github.com/TUUSUARIO/proyecto2) — breve descripción  
-- [⭐ Proyecto 3](https://github.com/TUUSUARIO/proyecto3) — breve descripción  
+- [⭐ Proyecto 1](https://github.com/TUUSUARIO/proyecto1)
+- [⭐ Proyecto 2](https://github.com/TUUSUARIO/proyecto2)
+- [⭐ Proyecto 3](https://github.com/TUUSUARIO/proyecto3)
 
 ---
 
 ## 📫 Cómo contactarme
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosfn2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcos-ferreiro-nieto-218b47328)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-ferreiro-nieto-218b47328)
 
 ---
 
