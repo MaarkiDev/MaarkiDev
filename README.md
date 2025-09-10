@@ -1,13 +1,13 @@
-# 👋 ¡Hola, soy Marcos!
+# 👋 ¡Hola, soy Marcos Ferreiro!
 
 Bienvenido a mi perfil de GitHub 🚀  
-Aquí encontrarás mis proyectos, experimentos y aprendizajes.
+Aquí encontrarás mis proyectos, pruebas y trabajos.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)([mailto:marcosfn2005@gmail.com](https://lenguajehtml.com/html))
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -17,17 +17,16 @@ Aquí encontrarás mis proyectos, experimentos y aprendizajes.
 
 ## 🌱 Actualmente aprendiendo
 
-- Inteligencia Artificial 🤖  
+- Modulo de grado superior de ASIR
 - Desarrollo de APIs con GraphQL  
 - Mejores prácticas de arquitectura de software  
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Mir proyectos
 
-- [⭐ Proyecto 1](https://github.com/TUUSUARIO/proyecto1)
-- [⭐ Proyecto 2](https://github.com/TUUSUARIO/proyecto2)
-- [⭐ Proyecto 3](https://github.com/TUUSUARIO/proyecto3)
+- [⭐ Proyecto 1](https://github.com/MaarkiDev/Pagina-Goku) - Pagina web en la que trabajé y apliqué mis conocimientos basicos de CSS y HTML
+- [⭐ Proyecto 2](https://github.com/rpmaya/diademas) - Proyecto en el que mediante una diadema sensorial, generabamos imagenes usando IA.
 
 ---
 
